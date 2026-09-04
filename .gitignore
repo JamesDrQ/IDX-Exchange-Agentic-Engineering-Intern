@@ -1,3 +1,11 @@
+.DS_Store
 .env
-venv/
+node_modules
+build
+
+*.pdf
+*.docx
+*.xlsx
 *.sql
+*.pages
+*.numbers
